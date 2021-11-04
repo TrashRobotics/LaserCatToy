@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="ссылка на видео"><img src="https://github.com/TrashRobotics/LaserCatToy/blob/main/img/laser_toy.jpg" alt="Лазерная башня" width="800"></a>
+  <a href="https://youtu.be/sZ_J02TyHJI"><img src="https://github.com/TrashRobotics/LaserCatToy/blob/main/img/laser_toy.jpg" alt="Лазерная башня" width="800"></a>
   <br>
     Лазерная башня для котиков
   <br>
@@ -20,7 +20,7 @@
 * блок питания 12В 1А с выходом 2.1мм jack;
 * Лазерная указка или лазерный модуль KY-008;
 * 2 x sg90 сервопривод;
-* [звенья, корпус и т.д.](ссылка на thingiverse)
+* [звенья, корпус и т.д.](https://www.thingiverse.com/thing:5090294)
 
 ### Крепеж
 * Саморез DIN7981 2.9x9.5 x12;

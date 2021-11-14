@@ -30,7 +30,7 @@ Automatic laser tower for cats
 ![Wiring diagram](https://github.com/TrashRobotics/LaserCatToy/blob/main/img/schematic.png)
 
 # Sketch
-Sketch for arduino Nano: **laser_toy/laser_toy.ino**   
-     
+Sketch for arduino Nano: **laser_toy/laser_toy.ino** (russian comments)       
+**laser_toy/laser_toy_en.ino** (english comments)       
 For more details watch the video.
 

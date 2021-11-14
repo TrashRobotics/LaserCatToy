@@ -30,7 +30,7 @@
 ![Схема подключения](https://github.com/TrashRobotics/LaserCatToy/blob/main/img/schematic.png)
 
 # Прошивка
-Прошивка для arduino Nano: **laser_toy/laser_toy.ino**   
-     
+Прошивка для arduino Nano: **laser_toy / laser_toy.ino** (русские комментарии)     
+**laser_toy / laser_toy_en.ino** (английские комментарии)    
 Другие подробности смотрите в видео.
 
